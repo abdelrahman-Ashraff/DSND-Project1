@@ -36,7 +36,7 @@ in case you used terminal type <code>python3</code> then type:
 
 - First, clone the repo using: <code>git clone https://github.com/AbdelrahmanAEmam/DSND-Project1.git</code>
 - Second, go to the repo location <code>cd path/to/repo</code>
-- Finally, open submission.py (for best practice use [jupyter notebook](https://jupyter.org/install)
+- Finally, open submission.ipynb (for best practice use [jupyter notebook](https://jupyter.org/install)
 
 ## Summary
 Using Data Science it's proven that (age of the houe, the distance to nearest MRT, number of convenience stores) 
