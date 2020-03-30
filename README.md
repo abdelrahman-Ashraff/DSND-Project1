@@ -42,6 +42,8 @@ in case you used terminal type <code>python3</code> then type:
 Using Data Science it's proven that (age of the houe, the distance to nearest MRT, number of convenience stores) 
 and many other features have a big effect on house pricing.
 
+**Check out this Blog on Medium [here](https://medium.com/@abdelrahman.aemam96/you-have-stores-around-your-house-you-must-be-a-millionaire-e407d3a896d8?sk=761e4bf96b7182f293cd74c2b6d23f1f)
+
 ## Acknowledgements
 - [Josh Bernard's Blog on Medium](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
 - [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
