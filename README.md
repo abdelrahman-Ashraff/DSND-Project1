@@ -15,7 +15,7 @@ Here I used:
 - seaborn
 - matplotlib
 
-## Installing
+## Installation
 Let's start first with installing the required libraries using pip
 
 <code>python -m pip install --user numpy seaborn matplotlib pandas</code>
