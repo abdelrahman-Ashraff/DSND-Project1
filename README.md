@@ -32,7 +32,7 @@ in case you used terminal type <code>python3</code> then type:
   
   <code>import pandas</code>
 
-**Now you are ready to go and run the code on your local machine...**
+**Now you are ready to run the code on your local machine (if needed)...**
 
 - First, clone the repo using: <code>git clone https://github.com/AbdelrahmanAEmam/DSND-Project1.git</code>
 - Second, go to the repo location <code>cd path/to/repo</code>
