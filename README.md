@@ -4,7 +4,7 @@ This repo contains the submission of DSND first project (Tested on Ubuntu 16.04 
 ## Getting Started
 The code provided is to help identifying what else could affect the price of a house other than the common attributes
 (like number of rooms, footage area of the house, ..etc.) with more less recognized yet effective attributes using the
-powerful tool knows as DATA SCIENCE
+powerful DATA SCIENCE.
 
 ## Prerequisites
 You should have at least Python 3.x and some mathematical, statistical and visualization libraries in order to run this code in your local machine.
