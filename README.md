@@ -23,15 +23,12 @@ Let's start first with installing the required libraries using pip
 ## Running the tests
 If all the libraries are installed correctly open terminal (ctrl + alt + t) or any Python editor of your choice
 in case you used terminal type <code>python3</code> then type:
-
-  <code>import numpy</code>
-  
-  <code>import seaborn</code>
-  
-  <code>import matplotlib.pyplot</code>
-  
-  <code>import pandas</code>
-
+```python
+import numpy
+import seaborn
+import matplotlib.pyplot
+import pandas
+```
 **Now you are ready to run the code on your local machine (if needed)...**
 
 - First, clone the repo using: <code>git clone https://github.com/AbdelrahmanAEmam/DSND-Project1.git</code>
